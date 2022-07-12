@@ -1,0 +1,21 @@
+#divCentral{
+  height: 350px;
+  width: 380px;
+}
+
+.divCentralizada{
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh
+}
+
+.tamanhoImagem{
+  width: 35px;
+}
+
+.titulo{
+  size: 45px;
+  color: #148d4b;
+  font-weight: bold;
+}

@@ -1,0 +1,14 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "name": "Whatsapp Link Generator",
+	"description": "Converse com a pessoa desejada através do Whatsapp apenas colocando o telefone do contato desejado.",
+	"version": "1.0.0.1",
+	"manifest_version": 3,
+	"icons": {
+		"128": "128.png"
+	},
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
